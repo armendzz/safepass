@@ -7,7 +7,7 @@
 
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 border-b flex justify-between">
-           <h1 class="text-3xl font-bold text-center ">SAFE PASSword</h1>
+           <h1 class="text-3xl font-bold text-orange-500 text-center ">SAFE PASSword</h1>
            <div>
             @if (Route::has('login'))
             <nav class="-mx-3 flex flex-1 justify-end">
